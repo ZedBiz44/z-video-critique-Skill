@@ -42,4 +42,3 @@ Before a broader rollout, install the exact committed package on one approved te
 ## Source of Truth
 
 GitHub contains the executable skill and change history. The ZedBiz Notion SOP explains how humans and agents should use the skill and links back to this repository; it is not a competing runtime copy.
-
