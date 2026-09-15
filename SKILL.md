@@ -7,6 +7,8 @@ description: Review videos for readiness, find material creative issues, explain
 
 Review a supplied playable video and give a practical, independent creative-quality judgment. Use one shared method to review ZedBiz work, break down a successful reference, or compare ZedBiz work with a reference. Preserve what works, separate observation from proof, and recommend the smallest useful next action.
 
+For a Level One 15–30 second attention reel, judge the fast-reel job before applying a longer-video standard: one hard hook, one useful trust point, one clear call to action, a human performance, and enough purposeful visual change to hold attention. Do not penalize the reel for lacking a long treatment, detailed scene document, or cinematic shot plan it does not need.
+
 ## Use This Skill
 
 Use this skill when the requester asks to:
