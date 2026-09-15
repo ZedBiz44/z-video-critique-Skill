@@ -1,5 +1,19 @@
 # Video Review Checklists
 
+## Level One Fast Attention Reel
+
+- Does the opening immediately signal a relevant problem, desire, mistake, tension, consequence, or curiosity for the intended viewer?
+- Does the hook create a promise the rest of the reel actually pays off?
+- Is there one main useful point, or has the script crammed several lessons, features, or claims into a few seconds?
+- Does the middle earn trust with something useful, believable, or specific rather than a list of unsupported claims?
+- Does the call to action follow naturally from the video?
+- Does the voice or presenter change pace, emphasis, emotion, expression, or energy at the important moments instead of staying flat and merely polished?
+- Do visual changes, B-roll, screenshots, graphics, reactions, props, crops, or cutaways each serve at least one purpose: clarify, prove, intensify, refresh attention, break monotony, improve rhythm, or add relevant personality?
+- Were weak generated openings, endings, dead holds, or unstable frames trimmed instead of preserved just because the provider created them?
+- Is the reel simple enough to remember after one viewing?
+
+For this format, a missing long-form treatment is not a defect. Too many ideas usually is.
+
 Use only the sections relevant to the supplied video and review job. These are judgment prompts, not a reason to invent defects or produce a long audit.
 
 ## Message and Story
