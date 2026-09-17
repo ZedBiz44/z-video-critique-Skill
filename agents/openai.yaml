@@ -1,0 +1,4 @@
+interface:
+  default_prompt: "Use $z-video-critique for the requested ZedBiz workflow."
+  display_name: "Z Video Critique"
+  short_description: "Help with Z Video Critique tasks"

@@ -9,6 +9,10 @@ Review a supplied playable video and give a practical, independent creative-qual
 
 For a Level One 15–30 second attention reel, judge the fast-reel job before applying a longer-video standard: one hard hook, one useful trust point, one clear call to action, a human performance, and enough purposeful visual change to hold attention. Do not penalize the reel for lacking a long treatment, detailed scene document, or cinematic shot plan it does not need.
 
+## ChatGPT and Codex inspection
+Use only media inspection tools actually exposed by the host. Readable captions and sampled frames can support limited findings but cannot prove continuous playback, audio quality, pacing or lip-sync.
+If the host cannot inspect the complete moving and audible result, provide the supported partial review and name the missing capability. Do not issue a complete Ready verdict from stills. Installing this skill does not install a video player, transcription provider or generation service.
+
 ## Use This Skill
 
 Use this skill when the requester asks to:
